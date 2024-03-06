@@ -1,0 +1,34 @@
+*{
+    background-size: cover;
+    color: white;
+}
+body{
+
+    background-image: url(https://www.shutterstock.com/image-vector/illustration-high-tech-keyboard-binary-260nw-109569047.jpg);
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    height: 0%;
+    align-items: center;
+    padding: 0%;
+    justify-content: space-between;
+}
+.left{
+    display: flex;
+    align-items: center;
+}
+.footer{
+    position: absolute;
+    bottom: 50px;
+}
+.marquee{
+    height: 200px;
+}
+a:hover{
+    color:burlywood
+}
+
+.ahha{
+    background-image: none;
+}
